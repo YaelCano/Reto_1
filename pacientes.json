@@ -1,0 +1,12 @@
+{
+    "datos": [
+        {
+            "id": "001",
+            "Nombre": "a",
+            "Tipo": "",
+            "Edad": 12,
+            "Nombre_propietario": "as",
+            "raza": ""
+        }
+    ]
+}
